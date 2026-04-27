@@ -1,0 +1,4 @@
+.codex
+.mplconfig/
+.venv/
+__pycache__/
